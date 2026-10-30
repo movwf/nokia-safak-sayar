@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-1: Safak Sayar, /icon.png, com.safaksayar.SafakSayarMIDlet
+MIDlet-Name: Safak Sayar
+MIDlet-Version: 1.0.1
+MIDlet-Vendor: Asker Safak Sayar
+MIDlet-Icon: /icon.png
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
